@@ -1,3 +1,3 @@
 # Natours
 
-live demo: https://natoursweb.web.app/
+live: https://natoursweb.web.app/
